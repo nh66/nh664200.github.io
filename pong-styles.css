@@ -30,7 +30,7 @@ body {
 }
 
 #instructions {
-  display: ;
+  display: block ;
   bottom: 0;
   position: absolute;
   margin: 10px;
