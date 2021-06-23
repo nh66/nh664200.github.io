@@ -15,7 +15,7 @@ body {
   left: 0;
   position: absolute;
   background-image: url("parentaladvisory.jpg");
-  background-size: cover;
+  background-size: 100%;
 }
 
 #left-paddle {
