@@ -92,8 +92,10 @@ body {
 
 #left-score {
   left: 1%;
+  color: white;
 }
 
 #right-score {
   right: 1%;
+  color: white;
 }
