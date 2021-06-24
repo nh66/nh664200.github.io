@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("./parentaladvisory.jpg");
+  background-image: url("parentaladvisory.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -92,10 +92,10 @@ body {
 
 #left-score {
   left: 1%;
-  color: white;
+  color: red;
 }
 
 #right-score {
   right: 1%;
-  color: white;
+  color: red;
 }
